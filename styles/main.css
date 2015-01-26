@@ -27,8 +27,9 @@ body {
   font-size: 1em;
   line-height: 1.4;
 }
-#body-special {
-  background-image: url ("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFPLsdBvjyKoQYRn80Dw1SStmbm2EpxLIXuLYE4vjNCOnNpNz95vpakAY")
+.body-special {
+  background:url ("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAAPklEQVQYV2NkwAT/gUKM6MLoAjBFGIqRFaJLovBhCrFaB7QeLg5SiEsRzJlgeQxHY/EcSOg/sQoxgwGHiQwA+f4KCL3Y/AQAAAAASUVORK5CYII=" )
+  repeat;
 }
 
 a {
